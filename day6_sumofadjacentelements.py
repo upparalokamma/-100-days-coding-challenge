@@ -1,7 +1,7 @@
 #Problem: Write a Java function that takes an array of integers and returns a new array 
-where each element is the sum of each adjacent pair of elements from the original array.
-If the original array has an odd number of elements, the last element of the new array
-should be the last element of the original array
+#where each element is the sum of each adjacent pair of elements from the original array.
+#If the original array has an odd number of elements, the last element of the new array
+#should be the last element of the original array
 
 
 CODE:
