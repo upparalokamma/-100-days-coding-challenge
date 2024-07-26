@@ -1,0 +1,10 @@
+11. Can you tell the difference between equals() method and equality operator (==) in Java?
+12. How is an infinite loop declared in Java?
+13. Briefly explain the concept of constructor overloading
+14. Define Copy constructor in java.
+15. Can the main method be Overloaded?
+16. Comment on method overloading and overriding by citing relevant examples.
+17. A single try block and multiple catch blocks can co-exist in a Java Program. Explain.
+18. Explain the use of final keyword in variable, method and class.
+19. Do final, finally and finalize keywords have the same function?
+20. Is it possible that the ‘finally’ block will not be executed? If yes then list the case.
