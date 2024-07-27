@@ -1,0 +1,10 @@
+21. Identify the output of the java program and state the reason.
+22. When can you use super keyword?
+23. Can the static methods be overloaded?
+24. Why is the main method static in Java?
+25. Can the static methods be overridden?
+26. Difference between static methods, static variables, and static classes in java.
+27. What is the main objective of garbage collection?
+28. What is a ClassLoader?
+29. What part of memory - Stack or Heap - is cleaned in garbage collection process?
+30. What are shallow copy and deep copy in java?
