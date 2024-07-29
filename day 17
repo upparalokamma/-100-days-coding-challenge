@@ -1,0 +1,22 @@
+SQL (Structured Query Language): A powerful language for interacting with relational database management systems (RDBMS), allowing us to fetch, update, insert, and remove data from tables.
+
+SQL Dialects: Different versions of SQL, such as Microsoft SQL Server, PostgreSQL, MySQL, SQLite, T-SQL, Oracle, and MongoDB.
+
+Main Applications of SQL: Creating, deleting, and updating tables; accessing, manipulating, and modifying data; retrieving and summarizing information; adding or removing rows or columns; and integrating with other programming languages.
+
+SQL Statements: Strings of characters interpreted by the SQL engine as legal commands, such as SELECT, CREATE, DELETE, DROP, and REVOKE.
+
+Types of SQL Commands (or SQL Subsets):
+
+DDL (Data Definition Language): CREATE, ALTER TABLE, DROP, TRUNCATE, ADD COLUMN
+DML (Data Manipulation Language): UPDATE, DELETE, INSERT
+DCL (Data Control Language): GRANT, REVOKE
+TCL (Transaction Control Language): COMMIT, SET TRANSACTION, ROLLBACK, SAVEPOINT
+DQL (Data Query Language): SELECT
+Database: A structured storage space where data is kept in tables, organized for easy access, manipulation, and summarization.
+
+DBMS (Database Management System): Software for performing operations on data stored in a database, with types including relational, hierarchical, network, graph, and object-oriented.
+
+RDBMS (Relational Database Management System): The most common type of DBMS for working with data stored in multiple related tables. Examples include MySQL, PostgreSQL, Oracle, and MariaDB.
+
+Tables and Fields in SQL: Tables are organized sets of related data stored in rows and columns, with fields being the columns of a table.
