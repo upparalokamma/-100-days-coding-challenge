@@ -1,0 +1,19 @@
+Day 19 of #100DaysOfCode
+
+Today, I expanded my SQL knowledge with the following concepts:
+
+Primary Key: Ensuring each record in a table is unique.
+Foreign Key: Creating links between tables to maintain referential integrity.
+Unique Key: Ensuring all values in a column are distinct.
+Creating Tables: Defining table structures using SQL commands.
+Insert Queries: Inserting single and multiple records into tables.
+Selecting Data: Querying tables to retrieve specific data.
+Joins: Explored different types of joins including:
+Inner Join: Selecting records with matching values in both tables.
+Left Outer Join: Selecting all records from the left table and matched records from the right table.
+Right Outer Join: Selecting all records from the right table and matched records from the left table.
+Cross Join: Producing the Cartesian product of two tables.
+Comments in SQL: Using comments to document SQL code.
+Relationships Between Tables: Understanding how foreign keys create relationships between tables.
+Practical Exercises: Practiced queries by inserting data into student and branch tables.
+Building a solid foundation in SQL is crucial for database management, and I'm excited to apply these skills in real-world scenarios. Stay tuned for more updates!
