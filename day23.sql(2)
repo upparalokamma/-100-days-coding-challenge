@@ -1,0 +1,22 @@
+
+
+🎉 **Day 23 of my learning journey!**
+
+📚 Today, I learned in detail about:  
+- Creating and deleting databases  
+- DDL commands:  
+  - **`CREATE`**: To make a new table or database  
+  - **`ALTER`**: To change the structure of an existing table  
+  - **`DROP`**: To completely remove a table or database  
+  - **`TRUNCATE`**: To quickly remove all rows from a table  
+  - **`RENAME`**: To change the name of a table or column  
+- The differences between `DELETE`, `TRUNCATE`, and `DROP`  
+- Creating tables  
+- Inserting values using various methods  
+
+💻 Practiced commands related to database structure!  
+
+🚀 Excited to see what’s next and to continue growing my skills!  
+
+
+
