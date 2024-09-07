@@ -1,0 +1,19 @@
+Day 25/100: SQL Learning Journey – Mastering DCL Commands!
+
+Continuing from yesterday, I explored deeper into Data Control Language (DCL) commands in SQL. These commands are crucial for database security and access management:
+
+🔐 GRANT: I practiced granting various permissions to users, ensuring they can only perform actions they’re authorized to do.
+
+❌ REVOKE: I also learned how to efficiently revoke permissions, maintaining tight control over who can access and modify data.
+
+Security and user management are key aspects of any robust database system, and these DCL commands are powerful tools in achieving that.
+
+  
+  Here’s an example I worked on:
+
+sql
+
+GRANT SELECT, UPDATE ON products TO analyst_role;
+REVOKE UPDATE ON products FROM analyst_role;
+
+
