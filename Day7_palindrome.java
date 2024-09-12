@@ -61,10 +61,10 @@ public class Main{
         
         if(temp==sum)
         {
-            System.out.println("is prime");
+            System.out.println("is palindrome");
         }
         else{
-            System.out.println("is not a prime");
+            System.out.println("is not a palindrome");
         }
     }
 }
